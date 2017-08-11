@@ -1,0 +1,36 @@
+body {
+	background-image: url(../images/train.jpg);
+	background-size: cover;
+	/*background-position: center center;*/
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.jumbotron,
+.panel-primary {
+	opacity: .95;
+}
+
+#header {
+	margin-top: 10px;
+	background-color: darkslategrey;
+	background: linear-gradient(darkslategrey, lightslategrey);
+	color: black;
+	font-family: 'Merriweather', sans-serif;
+}
+
+#panel {
+	border-color: darkslategrey;
+}
+
+#heading {
+	background-color: #78909c;
+}
+
+#add-train {
+	background-color: darkslategrey;
+}
+
+h3 {
+	text-shadow: 2px 2px 2px black;
+}
